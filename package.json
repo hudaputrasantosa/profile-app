@@ -1,0 +1,22 @@
+{
+  "name": "profile-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudaputrasantosa/profile-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudaputrasantosa/profile-app/issues"
+  },
+  "homepage": "https://github.com/hudaputrasantosa/profile-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
