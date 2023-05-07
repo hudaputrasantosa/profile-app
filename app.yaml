@@ -13,4 +13,5 @@
 
 # [START gae_quickstart_yaml]
 runtime: nodejs16
+service: app-profile
 # [END gae_quickstart_yaml]
